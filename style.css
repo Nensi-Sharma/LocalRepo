@@ -8,3 +8,11 @@ h2{
     color: cadetblue;
     size: 12px;
 }
+h3{
+    color: chocolate;
+}
+p{
+    text-align: center;
+    color: blue;
+    text-decoration: dotted yellow;
+}
